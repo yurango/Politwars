@@ -1,3 +1,3 @@
 # Politwars
 
-Developed with Unreal Engine 4
+Note: This is old version of project. Only for demonstrating purpose.
